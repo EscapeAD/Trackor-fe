@@ -1,0 +1,25 @@
+#caly {
+  border: black 1px solid
+}
+table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  border-spacing: 0;
+  font-size: 1em;
+}
+th {
+   text-align: center;
+ }
+
+ th, td {
+   /*border: 1px solid rgba(255,255,255,0.3);*/
+   padding: 0;
+   vertical-align: top;
+   border: black 1px solid
+ }
+ tr {
+   text-align: right;
+   height: 5em;
+   border: black 1px solid
+ }
